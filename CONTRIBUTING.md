@@ -1,10 +1,10 @@
 # Contributing
 
-Thanks for considering a contribution to Unpuzzled.
+Thanks for considering a contribution to *spoilr*.
 
 ## Project Scope
 
-Unpuzzled is intentionally small:
+*spoilr* is intentionally small:
 
 - Static HTML, CSS, and JavaScript
 - No build system

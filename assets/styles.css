@@ -187,6 +187,20 @@ label {
   white-space: nowrap;
 }
 
+.github-star-note {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 4px;
+}
+
+.star-icon {
+  width: 14px;
+  height: 14px;
+  flex: 0 0 auto;
+  fill: #d99b16;
+}
+
 .start-note a {
   color: inherit;
   font-weight: 800;

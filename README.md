@@ -1,6 +1,6 @@
-# Unpuzzled
+# spoilr
 
-Unpuzzled is a static browser tool for resolving the public image URL from a Jigsaw Explorer puzzle link.
+spoilr is a static browser tool for resolving the public image URL from a Jigsaw Explorer puzzle link.
 
 It runs entirely in the browser. There is no build step, server, package install, or tracking code.
 
